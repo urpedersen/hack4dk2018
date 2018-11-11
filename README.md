@@ -7,6 +7,8 @@ A demo is locate at: http://urp.dk/hack4dk2018
 
 Developed by Tal I Øret: Claus Jørgensen & Ulf Rørbæk Pedersen
 
+Code snips and postprocessed data at GitHub: https://github.com/urpedersen/hack4dk2018
+
 Contact: ulf@urp.dk
 ## Need to have
  * Lavet midi spor lavet ud fra data
