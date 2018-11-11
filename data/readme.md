@@ -1,1 +1,1 @@
-# Here is a collection of datafiles that we have created
+# Collection of generated datafiles
